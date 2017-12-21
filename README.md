@@ -7,11 +7,11 @@ WiFire uses the WANI registry to suggest networks for users to connect to. So th
 
 **Providers:** http://trai.gov.in/sites/default/files/wani_providers.xml
 
-This URL lists all network providers and all app providers. You will need to sync app providers from here and store their information.
+This URL lists all network providers and all app providers. You will need to sync app providers from here and store their information. Each network provider in the registry is assigned a URL where their networks are listed. The following URL is for the provider i2e1: 
 
 **Networks:** http://trai.gov.in/wani/registry/wani_providers/581e27be-9def-11e7-lbc4-cec778b6b50a/wani_aplist.xml
 
-Each network provider in the registry is assigned a URL where their networks are listed. The above URL is for the provider i2e1. When you register your networks with TRAI, they will be added to a similar list. Please ensure that you provide accurate geolocation, SSID, BSSID, and CPURL. WiFire will attempt WANI login only if the network's SSID and BSSID matches exactly with a network present in the WANI registry.
+When you register your networks with TRAI, they will be added to a similar list. Please ensure that you provide accurate geolocation, SSID, BSSID, and CPURL. WiFire will attempt WANI login only if the network's SSID and BSSID matches exactly with a network present in the WANI registry.
 
 WiFire syncs changes in the registry once a day. Any network present in the registry will show up in the list of in-range networks with a "TRAI" badge.
 
