@@ -1,6 +1,10 @@
 # WANI
 Instructions for integrating your networks with WiFire, the first app compliant with TRAI's WANI architecture.
-This page will be updated to reflect any changes in the spec or in WiFire's implementation.
+This guide will be updated to reflect any changes in the spec or in WiFire's implementation.
+
+[**Get WiFire for Android here!**](https://play.google.com/store/apps/details?id=com.mobstac.wildfire&hl=en)
+
+**Note**: WANI is only implemented on the Android version of WiFire, not on iOS.
 
 ## Registering your networks
 WiFire uses the WANI registry to suggest networks for users to connect to. So the first step is to ensure that you have registered your company and all your networks with TRAI. **Note**: URLs for the WANI registry should be accessed with HTTP instead of HTTPS. There is a bug on TRAI's end that prohibits HTTPS access.
