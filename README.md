@@ -74,7 +74,7 @@ Finally, you can respond to the WiFire app's initial request in one of 3 ways:
 That's it!
 
 ## Dealing with dynamic parameter requirements
-It may be the case that your existing captive portal system requires dynamically parameters for logging in, such as the router's MAC ID, connection timestamp, sequence number etc. One way deal with this is as follows:
+It may be the case that your existing captive portal system requires dynamic parameters for logging in, such as the router's MAC ID, connection timestamp, sequence number etc. One way deal with this is as follows:
 
 1. Your declared CPURL should not be the actual captive portal URL, but a wrapper over it.
 2. Handle steps 1 & 2 of WiFire login as described above.
