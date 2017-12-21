@@ -11,11 +11,13 @@ This URL lists all network providers and all app providers. You will need to syn
 
 **Networks:** http://trai.gov.in/wani/registry/wani_providers/581e27be-9def-11e7-lbc4-cec778b6b50a/wani_aplist.xml
 
-Each network provider in the registry is assigned a URL where their networks are listed. The above URL is for the provider i2e1. When you register your networks with TRAI, they will be added to a similar list. Please ensure that you provide accurate geolocation, SSID, BSSID, and cpUrl. WiFire will attempt WANI login only if the network's SSID and BSSID matches exactly with a network present in the WANI registry.
+Each network provider in the registry is assigned a URL where their networks are listed. The above URL is for the provider i2e1. When you register your networks with TRAI, they will be added to a similar list. Please ensure that you provide accurate geolocation, SSID, BSSID, and CPURL. WiFire will attempt WANI login only if the network's SSID and BSSID matches exactly with a network present in the WANI registry.
 
 WiFire syncs changes in the registry once a day. Any network present in the registry will show up in the list of in-range networks with a "TRAI" badge.
 
-## 1. Requests from WiFire
+## Logging in with WiFire
+
+### 1. Requests from WiFire
 When you initiate login on a "TRAI" network through WiFire, it makes a GET request on the **cpUrl** declared for that network in the WANI registry. The request is as follows:
 
 https://your.declared/cpUrl?waniapptoken=app-provider-id|encrypted-app-data
@@ -26,7 +28,7 @@ https://your.declared/cpUrl?waniapptoken=app-provider-id|encrypted-app-data
 
 Do not send any response to WiFire yet. You should return a response only after the process described below is completed.
 
-## 2. Authenticating with WiFire
+### 2. Authenticating with WiFire
 Determine the **authUrl** for WiFire, and send it a GET request as below. Please ensure that this URL is whitelisted on your network.
 
 https://wifireauth.mobstac.com/wani/v1/login?wanipdoatoken=your-provider-id|your-key-exp|encoded-waniapptoken
@@ -54,7 +56,7 @@ You will then receive a response from our auth URL with status 200 and JSON in t
 
 Any status code other than 200 implies failure, and some error detail text will be sent in the response.
 
-## 3. Responding to WiFire
+### 3. Responding to WiFire
 After you get a successful response from our auth URL, you should allow access on your network for the MAC IDs in the **devices** array. You should take any other steps necessary to log users into your network at this point.
 
 Finally, you can respond to the WiFire app's initial request in one of 3 ways:
@@ -69,6 +71,21 @@ Finally, you can respond to the WiFire app's initial request in one of 3 ways:
 - Any status 200 response that doesn't contain the **paymentUrl** JSON field will be treated as login success, and the user will be notified that they are online.
 - Any status other than 200 will be interpreted as login failure.
 
-**Note:** The WiFire app expects a response from the captive portal within 5 seconds at the most, failing which the user will be informed that login did not succeed. Our auth URL responds in under 100ms most of the time.
+That's it!
 
+## Dealing with dynamic parameter requirements
+It may be the case that your existing captive portal system requires dynamically parameters for logging in, such as the router's MAC ID, connection timestamp, sequence number etc. One way deal with this is as follows:
 
+1. Your declared CPURL should not be the actual captive portal URL, but a wrapper over it.
+2. Handle steps 1 & 2 of WiFire login as described above.
+3. Then make an AJAX request from the CPURL to your actual captive portal along with any dynamic parameters that you need.
+4. Perform the actual login for your network on the captive portal and return a response to the CPURL.
+5. Finally, return a response from the CPURL to the WiFire app as described in step 3 of WiFire login.
+
+## FAQs
+
+1. **Any latency requirements for logging in?** The WiFire app expects a response from the captive portal within 5 seconds at the most, failing which the user will be informed that login did not succeed. Our auth URL responds in under 100ms most of the time.
+
+2. **Why isn't my network showing up in WiFire?** WiFire needs an exact match on SSID (case-sensitive) & BSSID with a network present in the WANI registry. Failing this, it will neither show your network nor attempt WANI login on it. Also, the network's geolocation declared in the WANI registry must be reasonably close to its real location, since our app only syncs networks within a few kilometers of the user.
+
+3. **Do I need to verify the signature in the auth response?** We recommend skipping this step for now. TRAI's spec recommends a non-standard signature method, and we hope to have a discussion with them about this. This guide will be updated on this step in the near future.
