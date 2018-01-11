@@ -40,7 +40,7 @@ https://wifireauth.mobstac.com/wani/v1/login?wanipdoatoken=your-provider-id|your
 **wanipdoatoken**: This token should be constructed by joining the three parts below with a pipe (|):
 - Your provider ID.
 - The expiry of your latest key pair. This should match with the expiry of one of your keys declared in the WANI registry.
-- Base64 encoding of the entire **waniapptoken** that you received above.
+- Base64 encoding of the entire **waniapptoken** that you received above. **DO NOT RSA ENCRYPT this, even though the TRAI document asks you to.**
 
 You will then receive a response from our auth URL with status 200 and JSON in the below format:
 
