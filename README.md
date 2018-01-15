@@ -4,7 +4,7 @@ This guide will be updated to reflect any changes in the spec or in WiFire's imp
 
 [**Get WiFire for Android here!**](https://play.google.com/store/apps/details?id=com.mobstac.wildfire&hl=en)
 
-**Note**: WANI is currenly only implemented on the Android version of WiFire, not on iOS.
+**Note**: WANI is currently only implemented on the Android version of WiFire, not on iOS.
 
 ## Registering your networks
 WiFire uses the WANI registry to suggest networks for users to connect to. So the first step is to ensure that you have registered your company and all your networks with TRAI. **Note**: URLs for the WANI registry should be accessed with HTTP instead of HTTPS. There is a bug on TRAI's end that prohibits HTTPS access.
@@ -19,6 +19,10 @@ When you register your networks with TRAI, they will be added to a similar list.
 
 WiFire syncs changes in the registry once a day. Any network present in the registry will show up in the list of in-range networks with a "TRAI" badge.
 
+## Reference PHP implementation
+
+Feel free to copy our [**sample PHP code**](https://github.com/WiFire/WANI/tree/master/php) for WANI compliance to accelerate your development and quickly add support for WANI in your captive portals.
+
 ## Logging in with WiFire
 
 ### 1. Requests from WiFire
@@ -30,7 +34,7 @@ https://your.declared/cpUrl?waniapptoken=app-provider-id|encrypted-app-data
 - The provider ID. You use this to identify the app making the request and fetch its information from the WANI registry, including its declared **authUrl**.
 - Private data from WiFire which is only readable to WiFire's auth server.
 
-Do not send any response to WiFire yet. You should return a response only after the process described below is completed.
+Do not send any response to WiFire yet. You should return a response only after the process described below is completed. Please see our [sample PHP code](https://github.com/WiFire/WANI/tree/master/php) for how this is done.
 
 ### 2. Authenticating with WiFire
 Determine the **authUrl** for WiFire, and send it a GET request as below. Please ensure that this URL is whitelisted on your network.
