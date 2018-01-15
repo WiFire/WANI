@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><WaniRegistry lastUpdated="20180105150330" ttl="24">
+  <PDOAs>
+    <PDOA apUrl="https://trai.gov.in/wani/registry/wani_providers/581df294-9def-11e7-abc4-cec278b6b50a/wani_aplist.xml" email="aravind@cotyledon.in" id="581df294-9def-11e7-abc4-cec278b6b50a" name="Cotyledon Technologies" phone="+919840889462" rating="" status="ACTIVE">
+      <Keys>
+        <Key exp="20220924">
+                    -----BEGIN CERTIFICATE-----
+                    MIIEvTCCA6WgAwIBAgIJAMOSOat52waNMA0GCSqGSIb3DQEBCwUAMIGaMQswCQYD
+                    VQQGEwJJTjETMBEGA1UECBMKVGFtaWwgTmFkdTEQMA4GA1UEBxMHQ2hlbm5haTEf
+                    MB0GA1UEChMWQ290eWxlZG9uIFRlY2hub2xvZ2llczEMMAoGA1UECxMDRGV2MRAw
+                    DgYDVQQDEwdBcmF2aW5kMSMwIQYJKoZIhvcNAQkBFhRhcmF2aW5kQGNvdHlsZWRv
+                    bi5pbjAeFw0xNzA5MjUxMTM3MjVaFw0yMjA5MjQxMTM3MjVaMIGaMQswCQYDVQQG
+                    EwJJTjETMBEGA1UECBMKVGFtaWwgTmFkdTEQMA4GA1UEBxMHQ2hlbm5haTEfMB0G
+                    A1UEChMWQ290eWxlZG9uIFRlY2hub2xvZ2llczEMMAoGA1UECxMDRGV2MRAwDgYD
+                    VQQDEwdBcmF2aW5kMSMwIQYJKoZIhvcNAQkBFhRhcmF2aW5kQGNvdHlsZWRvbi5p
+                    bjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALXbGM6FgziY4UVIVTJy
+                    IuhAdrS4M2l2QWCNP9+GOUnpM+2zhNtqIOk2ba34VpAjzQfX3mtE3h8kqP0iAaRr
+                    Wf4XvjtpgTv6tn/hB3shNhkCOenlaEMDRRreNdJW0A/vPF47WKOPZXvPBllFjawu
+                    A2ZwVGQfLkkABt57tt4EZKXprGcz+JwxFBzHbKAju43DLJGdn63ZcQhkSoDZFN6D
+                    I2xP7/8It/MpmcnCdIE1CG2Q+dW9rqoS6J3f48w8W3wiROI11hNAxh16aydQ0/HV
+                    H6Spje+HHBw6RwQZFtMj6ar8s7/zSOXMCWtR1DvxIyRz30VI0xzCVp7h1IYO5N48
+                    ECUCAwEAAaOCAQIwgf8wHQYDVR0OBBYEFLcM7EflXgpFoT2rPiCpQDIfBnNvMIHP
+                    BgNVHSMEgccwgcSAFLcM7EflXgpFoT2rPiCpQDIfBnNvoYGgpIGdMIGaMQswCQYD
+                    VQQGEwJJTjETMBEGA1UECBMKVGFtaWwgTmFkdTEQMA4GA1UEBxMHQ2hlbm5haTEf
+                    MB0GA1UEChMWQ290eWxlZG9uIFRlY2hub2xvZ2llczEMMAoGA1UECxMDRGV2MRAw
+                    DgYDVQQDEwdBcmF2aW5kMSMwIQYJKoZIhvcNAQkBFhRhcmF2aW5kQGNvdHlsZWRv
+                    bi5pboIJAMOSOat52waNMAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQELBQADggEB
+                    AEatAcZZUJbmZhBQbb6kcVMfx9O0Xdsl8uPleMQbrOhwOCaaypNyyfE0QgCfyUND
+                    J75G+Wu11/68yTGV1tN7GdLXK3jxpRboTNQ2u9UeuTyLZb124H82QNjI31ux3jpC
+                    ICuTPCHAW844Sl/9UYgRRYnvEBsm/vUdbIOXouPbSXXqZOkOJTEjkpx84Wj/M46D
+                    dzIZjW7WfobeJ2mjnHGxtE05JAYzRTQ2ywYNjnNifYbWHBWfbFbedSks7YIUgz5r
+                    VpUsmsUufwitXCMeApVJU+0vk4DObIRama5g5GmgASSISiLbhC/eRZURAPfVUO1u
+                    GS3uJeBq++VW0QrlpmvXv4g=
+                    -----END CERTIFICATE-----
+                </Key>
+      </Keys>
+    </PDOA>
+    <PDOA apUrl="https://trai.gov.in/wani/registry/wani_providers/9a7d24dd-838c-424b-be2b-35c3e211f81e/wani_aplist.xml" email="admin@airjaldi.net" id="9a7d24dd-838c-424b-be2b-35c3e211f81e" name="Rural Broadband Pvt. Ltd." phone="9857570802" rating="" status="ACTIVE">
+      <Keys>
+        <Key exp="20181226">-----BEGIN CERTIFICATE-----
+MIIEHTCCAwWgAwIBAgIJAIT9bS87qw3IMA0GCSqGSIb3DQEBCwUAMIGkMQswCQYD
+VQQGEwJJTjEOMAwGA1UECAwFRGVsaGkxEjAQBgNVBAcMCU5ldyBEZWxoaTEiMCAG
+A1UECgwZUnVyYWwgQnJvYWRiYW5kIFB2dC4gTHRkLjEQMA4GA1UECwwHSmFsZGlG
+aTEYMBYGA1UEAwwPd3d3LmphbGRpZmkubmV0MSEwHwYJKoZIhvcNAQkBFhJhZG1p
+bkBhaXJqYWxkaS5uZXQwHhcNMTcxMjI3MDU0ODA2WhcNMTgxMjI3MDU0ODA2WjCB
+pDELMAkGA1UEBhMCSU4xDjAMBgNVBAgMBURlbGhpMRIwEAYDVQQHDAlOZXcgRGVs
+aGkxIjAgBgNVBAoMGVJ1cmFsIEJyb2FkYmFuZCBQdnQuIEx0ZC4xEDAOBgNVBAsM
+B0phbGRpRmkxGDAWBgNVBAMMD3d3dy5qYWxkaWZpLm5ldDEhMB8GCSqGSIb3DQEJ
+ARYSYWRtaW5AYWlyamFsZGkubmV0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAxBrLLHcQxMVNAKXfxB3IU8uJiX8YI1PO+Gtp4d2FPIw+L6gpgIXs8dOg
+F23PgMhnp00yJDqX4W+hohjGbvoZ9YTVNL8wwOZgADaFV5GOirGGWuFE7/oYullc
+Zj8OASN3h5CnZNyz8eQ23ei8P8ctmeMOJfrg0Sp9OXZlkIqMilsxukR+8jZBqTlq
+V9jll2HrBfVqng2w3Kjtx3sn1lyJQcqeDsjnpP1luo4r979bXliK6ivhT71nLQ7V
+nKzPY9Fe7gxXH9yQiqbz9Ee625oT+1tloZ8vHPIKAIs9LMaTttbcsPrQ8wbxM5qW
++Tg8JUM+mKSvN6q8GxMDxTCnPHotNQIDAQABo1AwTjAdBgNVHQ4EFgQUCWEpZgUf
+j9zbLbplZEmUAZH9FyswHwYDVR0jBBgwFoAUCWEpZgUfj9zbLbplZEmUAZH9Fysw
+DAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQsFAAOCAQEABxD2r4QB7WhZ6XxvsYjc
+y1Xgsikz/k5tSJwDC6oaZemqxPrPw3bVWXteSXjXBN1+SWIa4d7GyTlUfEQki85p
+Zcq7BB1Jq/CDQM0lVawIAYvy5p/3lIb5/6iB4eKqXX3MzgA2sc1y9idgrD40qvL/
+AGB5S14/KRKNKKetmnbMufbUKfLlygrBhIpIjPYJW4/wDd2EKB2fdmVZPcPSaXpV
+o8DkufstTXE8hmjslDr7o1f7Ogu1M89cLUNYyL6TVuNusEL5e5EDX6lXV28a4UYO
+JTN5oQQJoYyf0hT2ywzVBgOWu9Bp4B25I7Z7rYv20vimzyw+8sO6c7WJ9FR+96QG
+kw==
+-----END CERTIFICATE-----
+
+                </Key>
+      </Keys>
+    </PDOA>
+    <PDOA apUrl="https://trai.gov.in/wani/registry/wani_providers/dd2b3371-f32e-434f-b0d7-fed0d4a12fda/wani_aplist.xml" email="venkat.thummala@onehopnetworks.com" id="dd2b3371-f32e-434f-b0d7-fed0d4a12fda" name="ONEHOP NETWORKS" phone="9739657883" rating="" status="ACTIVE">
+      <Keys>
+        <Key exp="20190103">-----BEGIN CERTIFICATE-----
+MIIEKTCCAxGgAwIBAgIJANDXapLDCwi4MA0GCSqGSIb3DQEBBQUAMIGqMQswCQYD
+VQQGEwJJTjESMBAGA1UECAwJS0FSTkFUQUtBMRIwEAYDVQQHDAlCRU5HQUxVUlUx
+IDAeBgNVBAoMF09ORUhPUCBORVRXT1JLUyBQVlQgTFREMR4wHAYDVQQDDBVjcC5v
+bmVob3BuZXR3b3Jrcy5jb20xMTAvBgkqhkiG9w0BCQEWInZlbmthdC50aHVtbWFs
+YUBvbmVob3BuZXR3b3Jrcy5jb20wHhcNMTgwMTAzMDYzMTI1WhcNMTkwMTAzMDYz
+MTI1WjCBqjELMAkGA1UEBhMCSU4xEjAQBgNVBAgMCUtBUk5BVEFLQTESMBAGA1UE
+BwwJQkVOR0FMVVJVMSAwHgYDVQQKDBdPTkVIT1AgTkVUV09SS1MgUFZUIExURDEe
+MBwGA1UEAwwVY3Aub25laG9wbmV0d29ya3MuY29tMTEwLwYJKoZIhvcNAQkBFiJ2
+ZW5rYXQudGh1bW1hbGFAb25laG9wbmV0d29ya3MuY29tMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAsRVYxfh32Uk78Pa2XlV3PKw9mabrUJJkdKjXh+Iq
+fJBOAeoHE5RQWAyYfz4Mw7YofGLeaX09+WZWWAdbs1uhsW6lZxE8OJRxke2k3q0z
+TVQrgGxz5NTiL+3thxPlYNqod2nwN8+3RGhXoSkOxxBfs1aMsGTE6OMkLa1/CHqS
+ezpEXdIbB6VUnzdFeCavcY4hvcPNeIkF6xEprkf++bSDN+p6iPPb24G7SXvTCP7N
+94J6gHruVlTnESY5ZOxt3GvHe1XMfsCdBNqIBiBywLFhm0uOxwWa8HlvlHmneaPt
+Q/6aoztA5pMBzq+MfvT+XM32BPQWl1Vcu+L+EwIkw2jZOQIDAQABo1AwTjAdBgNV
+HQ4EFgQUju4/xYnmeNsQrPbV8o6C/beJrL8wHwYDVR0jBBgwFoAUju4/xYnmeNsQ
+rPbV8o6C/beJrL8wDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQUFAAOCAQEAiLTm
+mWs5aDDReILOtEdBN4fSuZH0RHhiJ3qvYg01KYCdlOWaz+Z2SU/p/UVNZ6F+zool
+czeJDc1NwYsvvBGlMuCfZzpHYeV0ZLVkFyo0boeQu3v468s6XWH6/OXjSf+OJJYC
+HXV0jIqSMECkxjPPqsaI0+XAwQ3kSC/ndGGfY/V/XtG8twnvpwnn4OP9Zgqr93PE
+2hAPodf5bUntvHNjdijsZGE72TeJ+zPGwIJwXPwSIVVQqAWzWgpq8GrtyIjjCDun
+6qfU0PGPePpW4IMkfAcz9S3DPLONkoFBkFW0Y1jysCipyADL1QJPlRvGnGATPftw
+uWkJhNPvMUyjRSLX7w==
+-----END CERTIFICATE-----
+
+                </Key>
+      </Keys>
+    </PDOA>
+    <PDOA apUrl="https://trai.gov.in/wani/registry/wani_providers/581e249e-9def-11e7-abc4-cec278b6b50a/wani_aplist.xml" email="vikram@yspot.in" id="581e249e-9def-11e7-abc4-cec278b6b50a" name="Febler technologies" phone="+919886132601" rating="" status="ACTIVE">
+      <Keys>
+        <Key exp="20180926">
+                    -----BEGIN CERTIFICATE-----
+                    MIIEEzCCAvugAwIBAgIJAO+/3oXDeICtMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD
+                    VQQGEwJJTjESMBAGA1UECAwJa2FybmF0YWthMRIwEAYDVQQHDAliZW5nYWx1cnUx
+                    JDAiBgNVBAoMG0ZlYmxlciB0ZWNobm9sb2dpZXMgcHZ0IGx0ZDEOMAwGA1UECwwF
+                    eXNwb3QxETAPBgNVBAMMCHlzcG90LmluMR8wHQYJKoZIhvcNAQkBFhBjb250YWN0
+                    QHlzcG90LmluMB4XDTE3MDkyNjA5MDMwOFoXDTE4MDkyNjA5MDMwOFowgZ8xCzAJ
+                    BgNVBAYTAklOMRIwEAYDVQQIDAlrYXJuYXRha2ExEjAQBgNVBAcMCWJlbmdhbHVy
+                    dTEkMCIGA1UECgwbRmVibGVyIHRlY2hub2xvZ2llcyBwdnQgbHRkMQ4wDAYDVQQL
+                    DAV5c3BvdDERMA8GA1UEAwwIeXNwb3QuaW4xHzAdBgkqhkiG9w0BCQEWEGNvbnRh
+                    Y3RAeXNwb3QuaW4wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDRFPwJ
+                    6pzJM8xquz5sUjCzgZ03Df3lMhJYaXl52Ohy517FITcMSHWnHh2kAaxMsAQnk/nO
+                    aDbDXtK5h+/9TLWwpfpz0t2vR7Ccv2g+YdI7sfeovPti5TyhJ9Ajmihtm6ICDFDj
+                    EloiAgJfGRs7qbLPSLtoaNw+y4aE39rxFS2Pn+TbVFx1aHZtKjNzNHO4DmJBJxEO
+                    JVgp4NG72ghY6EVybeJP9HE5o23XqgiVJPYBX9sjUxBtQ9VQB023wiq+OL/lKXM3
+                    T7SUnXTKcP61x48lGeGezMwwrP/+PQL+Bk+3fPx69aKRTW7CzUvkYdQ23V5BNuoi
+                    fC8ldqWhMF1xxYG1AgMBAAGjUDBOMB0GA1UdDgQWBBTm9slP03eFEUbWgGrBaJFl
+                    4dFMTDAfBgNVHSMEGDAWgBTm9slP03eFEUbWgGrBaJFl4dFMTDAMBgNVHRMEBTAD
+                    AQH/MA0GCSqGSIb3DQEBCwUAA4IBAQAyxP2ko+vUvn4fbGnYQ0EMpGvc03Cwl4DY
+                    4nE8uiKwlic1FRqdyBlkxdTxmF1QDhvbmxeDU7gI2bKllkRa4k8oYOpnf/99t1n0
+                    BwJB11Sp4x9aLMuTdiUPQAV09sYrzlwxAFFBVzcNcDAcK8WPRh10434UBg+y4pCI
+                    /m73JgIqz7hKL8W3Bj0HqIcthFeP31qQbkjcScbRrrQqklHvVZ+nQXmwkfJibXn9
+                    mOKFavwz2BYIOFw00bZdatOKWuGgCGqmCUM6emMuXkeKoldmwR5YyTH9Yv+iZFIH
+                    Mi6dxQoAfWFx7KbmCuRQ1B5JcA4/I9qiIpJQ6lNOEVMQIWVCU7gG
+                    -----END CERTIFICATE-----
+                </Key>
+      </Keys>
+    </PDOA>
+    <PDOA apUrl="https://trai.gov.in/wani/registry/wani_providers/1ceebefc-055b-4f44-b1c7-fceabeab040d/wani_aplist.xml" email="vinay@techzoneacademy.com" id="1ceebefc-055b-4f44-b1c7-fceabeab040d" name="Techzone Academy" phone="+919012022211" rating="" status="ACTIVE">
+      <Keys>
+        <Key exp="20180928">
+                    -----BEGIN CERTIFICATE-----
+                    MIIENDCCAxygAwIBAgIJALCAEL1nL0jsMA0GCSqGSIb3DQEBCwUAMIGuMQswCQYD
+                    VQQGEwJJTjEUMBIGA1UECAwLVXR0YXJha2hhbmQxDzANBgNVBAcMBkFsbW9yYTEZ
+                    MBcGA1UECgwQVGVjaHpvbmUgQWNhZGVteTENMAsGA1UECwwES29zaTEkMCIGA1UE
+                    AwwbY293bWVzaC50ZWNoem9uZWFjYWRlbXkuY29tMSgwJgYJKoZIhvcNAQkBFhl2
+                    aW5heUB0ZWNoem9uZWFjYWRlbXkuY29tMB4XDTE3MDkyODA5MDY0NloXDTE4MDky
+                    ODA5MDY0Nlowga4xCzAJBgNVBAYTAklOMRQwEgYDVQQIDAtVdHRhcmFraGFuZDEP
+                    MA0GA1UEBwwGQWxtb3JhMRkwFwYDVQQKDBBUZWNoem9uZSBBY2FkZW15MQ0wCwYD
+                    VQQLDARLb3NpMSQwIgYDVQQDDBtjb3dtZXNoLnRlY2h6b25lYWNhZGVteS5jb20x
+                    KDAmBgkqhkiG9w0BCQEWGXZpbmF5QHRlY2h6b25lYWNhZGVteS5jb20wggEiMA0G
+                    CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCqQU3EHitwn6pgTqt5cZ7r32hUNfy4
+                    RAib7tq+6DPj4qLupOzFQpKJKG8UpT8VgBwg8ilWi6gXs10yEnGtLLk1lm1deZG7
+                    kM7bz7lLSvVcDpTA/x6ufUAso9DLxBN8EREr/MNmp/ah6KhZ94tjLRV1YMf+gfmN
+                    FJ3fgN6BNxGUk38Yls6kJMNe/eXPsVIVPGDZMsJilIaROZ9NImm48UuVHd2zNXwj
+                    aBiHa2JueGLEkPGVsOie3rzTNXv5EaNuHrLlRfZxkpLvvJ2AetB8EoIlva7/G6u3
+                    5DGwfp0a/ryevgIAbCMjHiNgkACb8Mz0ynGFth+9FIqD7KAWt8HgGyydAgMBAAGj
+                    UzBRMB0GA1UdDgQWBBQSzAeNYdZoVb5Bnxjqru80nDEGIDAfBgNVHSMEGDAWgBQS
+                    zAeNYdZoVb5Bnxjqru80nDEGIDAPBgNVHRMBAf8EBTADAQH/MA0GCSqGSIb3DQEB
+                    CwUAA4IBAQAmHR3FvR3eGUdhCaZlfnbhhZuEUoPMCyyErOzlEaHhtnBwp8LYsPD7
+                    Wq0tfqbkBqSQX6DE4X5DVj1b7JUGnTAnUsFS0FyJXwAStvhvQGpXjs9mL88EPWaQ
+                    YcHb9oeWCk84yzaxRSDPuLEFkFoaA+TmVayfbMi/CZnoePlpIl7Z6AHLdki2QtPs
+                    sN/N11uW9J+ioaA1acD7ou63oDAuORQQ2F7+WSlT1awxUiedDDPHyym9dMwZansL
+                    GK0sGTW0+HwNkzxTVxM3bYZONVlGsnScVFeUkK+RmI8KMbmSi3gjN9LpKqyuZO+7
+                    MUeNK4uto/3RaL/EGXsk3/EnnBlYv8Fx
+                    -----END CERTIFICATE-----
+                </Key>
+      </Keys>
+    </PDOA>
+    <PDOA apUrl="https://trai.gov.in/wani/registry/wani_providers/581e27be-9def-11e7-lbc4-cec778b6b50a/wani_aplist.xml" email="gb@i2e1.com" id="581e27be-9def-11e7-lbc4-cec778b6b50a" name="Omnia Information Private Limited" phone="+919818482844" rating="" status="ACTIVE">
+      <Keys>
+        <Key exp="20180728">
+                    -----BEGIN CERTIFICATE-----
+                    MIIFIDCCBAigAwIBAgIIE+yCXGfGPr0wDQYJKoZIhvcNAQELBQAwgbQxCzAJBgNV
+                    BAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQHEwpTY290dHNkYWxlMRow
+                    GAYDVQQKExFHb0RhZGR5LmNvbSwgSW5jLjEtMCsGA1UECxMkaHR0cDovL2NlcnRz
+                    LmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMTMwMQYDVQQDEypHbyBEYWRkeSBTZWN1
+                    cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwHhcNMTcwNzI4MDgzMTAwWhcN
+                    MTgwNzI4MDgzMTAwWjA1MSEwHwYDVQQLExhEb21haW4gQ29udHJvbCBWYWxpZGF0
+                    ZWQxEDAOBgNVBAMTB2kyZTEuaW4wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+                    AoIBAQDJUnypLyraXsAtf+mkP1ijEXCwFrpZzfMr2W1vmAi++1n0X/9Kcp2RYcGv
+                    txgGtP0Mmdlv2kcdydGaJSrIyBO3xHbZe2bBah6kex8s6QdYBCBn0v9CMaEXf3mj
+                    Z7m1ic7JSbqtD5G2WpVnH+7Wta1P86qEWTi03wZ55vHhROpXvsgY4Pv3bv9OXZqe
+                    aF11pg93cWyanmOmslRiHc79K23yGwATdM9D8+ChURCyqbtfRNR+MM1aE/abHjQZ
+                    MDhXn6Zc+HgCD7QXqoNFRjfgSnjfCPA66ENvIEDMFQgUv/QVDpt5FhwowMQuOSrU
+                    csgzsrg1pagVl9Is/3HUslc9hGylAgMBAAGjggGyMIIBrjAMBgNVHRMBAf8EAjAA
+                    MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAOBgNVHQ8BAf8EBAMCBaAw
+                    NwYDVR0fBDAwLjAsoCqgKIYmaHR0cDovL2NybC5nb2RhZGR5LmNvbS9nZGlnMnMx
+                    LTYyMi5jcmwwXQYDVR0gBFYwVDBIBgtghkgBhv1tAQcXATA5MDcGCCsGAQUFBwIB
+                    FitodHRwOi8vY2VydGlmaWNhdGVzLmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMAgG
+                    BmeBDAECATB2BggrBgEFBQcBAQRqMGgwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3Nw
+                    LmdvZGFkZHkuY29tLzBABggrBgEFBQcwAoY0aHR0cDovL2NlcnRpZmljYXRlcy5n
+                    b2RhZGR5LmNvbS9yZXBvc2l0b3J5L2dkaWcyLmNydDAfBgNVHSMEGDAWgBRAwr0n
+                    jsw0gzCiM9f7bLPwtCyAzjAfBgNVHREEGDAWggdpMmUxLmluggt3d3cuaTJlMS5p
+                    bjAdBgNVHQ4EFgQUNOveJLIkpYA7JOoGpcT997kHRbowDQYJKoZIhvcNAQELBQAD
+                    ggEBAK34AI2vPcHXTd2bmH8E6gP5jr7Tzdsgrhlq9AgZNVu0ImuEpTyaKkbYHiZx
+                    VoIb50+DlzxarrpVXofBg1YKBF1Bwyv1q3EjhYXT6sZCL5p7jifO7X1kEujAp8rf
+                    XMXr9UXRjs1B0mOiW6nLyGPY4XITyoALk1LupZo3Yd3hUIuJPaO8zumJicl2GTi1
+                    EPu3+NJ6s5xatHuSM64b0+QxA/RTxGlBOmrfYsc5+wk242lLRl+SgOEctz76LWxi
+                    wCW8sAP8ibxomNdtcDHI6RA4j7uqc4TaUa8r96BauFBP4+PdHU5eDQzOvNHBedf1
+                    xccKOibtSm4QAMepd+PjQ9iRK24=
+                    -----END CERTIFICATE-----
+                </Key>
+      </Keys>
+    </PDOA>
+    <PDOA apUrl="https://trai.gov.in/wani/registry/wani_providers/581e156c-9def-11e7-abc4-cec278b6b50a/wani_aplist.xml" email="jnmandal@cdot.in" id="581e156c-9def-11e7-abc4-cec278b6b50a" name="C-DOT" phone="+919868270044" rating="" status="ACTIVE">
+      <Keys>
+        <Key exp="20181003">
+                    -----BEGIN CERTIFICATE-----
+                    MIID0TCCArmgAwIBAgIJALwxIcqBTttiMA0GCSqGSIb3DQEBCwUAMH8xCzAJBgNV
+                    BAYTAklOMQswCQYDVQQIDAJLQTESMBAGA1UEBwwJQkFOR0FMT1JFMQ4wDAYDVQQK
+                    DAVDLURPVDEMMAoGA1UECwwDUFNHMRAwDgYDVQQDDAdzYW5kZWVwMR8wHQYJKoZI
+                    hvcNAQkBFhBzYW5kZWVwYUBjZG90LmluMB4XDTE3MTAwMzA4MTYxMVoXDTE4MTAw
+                    MzA4MTYxMVowfzELMAkGA1UEBhMCSU4xCzAJBgNVBAgMAktBMRIwEAYDVQQHDAlC
+                    QU5HQUxPUkUxDjAMBgNVBAoMBUMtRE9UMQwwCgYDVQQLDANQU0cxEDAOBgNVBAMM
+                    B3NhbmRlZXAxHzAdBgkqhkiG9w0BCQEWEHNhbmRlZXBhQGNkb3QuaW4wggEiMA0G
+                    CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC8khezAkWa2vbuofV7Mq6X2J+x/LQE
+                    qsmyhi7MId2oOX3WIeuvumcPp+tAm6Iiv3PQU1g6MPg7ehU0D6tW5fqe+3aGD8SD
+                    6TJA+630Wk+nKQwpZA5hJJLkuKF6cG6k1C10S/UdzizkzPJFMNoL8L8HTuzNdEPG
+                    wFy8sLVOeTlhj+a6xMhPzNxbfWpZbe62rPwEoWZbvYj0/RUd0a19shr2ueK7kB2G
+                    y9Gr0XCy5LSCKaSYgRg6ErXvQHiNS6/Re5K47C/CaAzPG86E7onNwz80PLz8RdiD
+                    uGdafjnukuNEWOVkM5B8/4SEojJ+hRU6rgWhlT3dK9RXhas2kjjj7Dz3AgMBAAGj
+                    UDBOMB0GA1UdDgQWBBTLuy7M2CxS1Cu9F3KWj/kMWrXlxjAfBgNVHSMEGDAWgBTL
+                    uy7M2CxS1Cu9F3KWj/kMWrXlxjAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBCwUA
+                    A4IBAQCBbBVuMfGNBCjNxMgsZ7jU2D1ENcW/UtP6hrHdJPLAaG+6tMlqU/Rc8OSn
+                    IsCyJm/W/og4MVTpNmuFDuV1QCo+zZ3cUpI7tcTrp9iG7KQi6eVxmGDUHm1RgiJd
+                    zA+hIqGzXcGNZFV/KSh1RzcdU+2Hike+NvyeKcCwgvH6T64N7mPfzHdaihlWiL9x
+                    laeKvJYjYsWcwh6/xVT5Gegxpgudx9ifIrFXOXF/fF2b0ZyHayQ6uwPoOLOMpnRq
+                    KTr91gnt4OQIdckQ7AezxzmOzb9fXwlbxyGQ8pR43aiRNhcFr6LtuNXcfuV5VRjY
+                    CG3criqUFCpy9IAnr6cXNLNnE156
+                    -----END CERTIFICATE-----
+                </Key>
+      </Keys>
+    </PDOA>
+    <PDOA apUrl="https://trai.gov.in/wani/registry/wani_providers/581dfc3a-9def-11e7-abc4-cec278b6b50a/wani_aplist.xml" email="ravi@mpgdigital.in" id="581dfc3a-9def-11e7-abc4-cec278b6b50a" name="MPG Digital Platform P.Limited" phone="+918108981089" rating="" status="ACTIVE">
+      <Keys>
+        <Key exp="20180728">
+                    -----BEGIN CERTIFICATE-----
+                    MIIF9jCCBN6gAwIBAgIQPH9TaHVhOPxZ3BOV3Y7RmTANBgkqhkiG9w0BAQsFADBE
+                    MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
+                    R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTcwNzI3MDAwMDAwWhcNMTgwNzI3MjM1
+                    OTU5WjB2MQswCQYDVQQGEwJJTjEUMBIGA1UECAwLTWFoYXJhc2h0cmExDzANBgNV
+                    BAcMBk11bWJhaTEpMCcGA1UECgwgRHJ1dlRlY2ggU3lzdGVtcyBQcml2YXRlIExp
+                    bWl0ZWQxFTATBgNVBAMMDHd3dy51cGFzcy5jYzCCASIwDQYJKoZIhvcNAQEBBQAD
+                    ggEPADCCAQoCggEBAMmeFd3TADFaU5QLM8Ft4jWUx+IzC/O/6mwNL6ItDaktRC9L
+                    WMyiTFGTmsTv4PxhIyt/Tqf0+ZIJ8hjygnt2CJRToY8sAW6gc/0NOYhhXQ+Xv84P
+                    GtAKytD80V4x8scwo5ilZEqVx/rbDrzjCiThUI2yG+Eb/IyfD6W19KfA8DYtsEAT
+                    zcDg6pMg/S/cJAqvuxkeal0dvOlZgObNs5ixzlFxZlpGlhLtRdhnoZDP+gN8nCdd
+                    sjYgL7/CPCS7n9tPgCWDiGtzDrkntMiqHxoPgEXDLnlG6IuLoq46i6QukInSTrMc
+                    5Eoip0sd6dRmOUesetD3gzcBZTcWuqDXWmcDF3kCAwEAAaOCArAwggKsMCEGA1Ud
+                    EQQaMBiCDHd3dy51cGFzcy5jY4IIdXBhc3MuY2MwCQYDVR0TBAIwADAOBgNVHQ8B
+                    Af8EBAMCBaAwKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL2duLnN5bWNiLmNvbS9n
+                    bi5jcmwwgZ0GA1UdIASBlTCBkjCBjwYGZ4EMAQICMIGEMD8GCCsGAQUFBwIBFjNo
+                    dHRwczovL3d3dy5nZW90cnVzdC5jb20vcmVzb3VyY2VzL3JlcG9zaXRvcnkvbGVn
+                    YWwwQQYIKwYBBQUHAgIwNQwzaHR0cHM6Ly93d3cuZ2VvdHJ1c3QuY29tL3Jlc291
+                    cmNlcy9yZXBvc2l0b3J5L2xlZ2FsMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+                    BQcDAjAfBgNVHSMEGDAWgBTSb/eW9IU/cjwwfSPahXibo3xafDBXBggrBgEFBQcB
+                    AQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9nbi5zeW1jZC5jb20wJgYIKwYBBQUH
+                    MAKGGmh0dHA6Ly9nbi5zeW1jYi5jb20vZ24uY3J0MIIBBAYKKwYBBAHWeQIEAgSB
+                    9QSB8gDwAHYA3esdK3oNT6Ygi4GtgWhwfi6OnQHVXIiNPRHEzbbsvswAAAFdhAsJ
+                    LQAABAMARzBFAiA86E3J8rejhlSkJUVoftpiHzL+kIh+QntPOQL1QOLCgwIhAJIS
+                    19Ejp/X0Aq/IE93szmSVwTTS5q1ibVg5rxb0C3ULAHYApLkJkLQYWBSHuxOizGdw
+                    Cjw1mAT5G9+443fNDsgN3BAAAAFdhAsJRQAABAMARzBFAiEAy9JilYGGYv0E9Rbx
+                    JTe6LfBEOtCBCZwAPc0P0jS86ZsCIEhyFjRLK9ftWtlv1/b9OkYxdTGuAE15UXyg
+                    Tr0jiYLtMA0GCSqGSIb3DQEBCwUAA4IBAQAkxlnWseSb8RBWyFj1OCxeV5V0O4uR
+                    9ReFQ2yeOEOv1+pzmK9ABEJgHOk99sPlmw/7VQHQ4jCuUSjN3MnNrdBPYf7Txvdk
+                    S/3cP8qj8+hX6SuWykDY6WewIZppnbl3RgYgtQvdt9LTVUterfh4b3WXhvyHiZTO
+                    yfkpO/bAdvEdj3SBh8zw7Z8BenL2TacjefUXIk2xhCS0imbLOKH0NURyExg1i5MN
+                    +OX2qibzG6CkFJwnF2PAAZpQof6OZK4y0N021praq2MGbbrYnL4VEswK3+nYhidR
+                    Bo8i5t3v/fdNf2HG6Ie2HIVQLzgMF+EUIv5G6x0ymY4thN3Od5Zv7lUk
+                    -----END CERTIFICATE-----
+                </Key>
+      </Keys>
+    </PDOA>
+    <PDOA apUrl="https://trai.gov.in/wani/registry/wani_providers/581dfd20-9def-11e7-abc4-cec278b6b50a/wani_aplist.xml" email="rajneesh@aura.ind.in" id="581dfd20-9def-11e7-abc4-cec278b6b50a" name="Aura Ventures Pvt Ltd" phone="9711994200" rating="" status="ACTIVE">
+      <Keys>
+        <Key exp="20181015">
+                    -----BEGIN CERTIFICATE-----
+                    MIIEAjCCAuqgAwIBAgIJAIan6kZ3Wyq4MA0GCSqGSIb3DQEBCwUAMIGVMQswCQYD
+                    VQQGEwJJTjELMAkGA1UECAwCSFIxEDAOBgNVBAcMB0d1cmdhb24xFjAUBgNVBAoM
+                    DUF1cmEgVmVudHVyZXMxEDAOBgNVBAsMB1RlbGVjb20xGDAWBgNVBAMMD3d3dy5h
+                    dXJhLmluZC5pbjEjMCEGCSqGSIb3DQEJARYUcmFqbmVlc2hAYXVyYS5pbmQuaW4w
+                    HhcNMTcxMDE2MDkyNjQ4WhcNMTgxMDE2MDkyNjQ4WjCBlTELMAkGA1UEBhMCSU4x
+                    CzAJBgNVBAgMAkhSMRAwDgYDVQQHDAdHdXJnYW9uMRYwFAYDVQQKDA1BdXJhIFZl
+                    bnR1cmVzMRAwDgYDVQQLDAdUZWxlY29tMRgwFgYDVQQDDA93d3cuYXVyYS5pbmQu
+                    aW4xIzAhBgkqhkiG9w0BCQEWFHJham5lZXNoQGF1cmEuaW5kLmluMIIBIjANBgkq
+                    hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2jydaaVQ7/cCVtAhjjOh2UNRi1MBsscc
+                    /khv84fCfsPamGBlR2AqQfrL9rEMNON0SWgOonBZhI1ww5m88OoOlijhKNAR4Zmv
+                    RNgBsoPaslPaZJJUUiSYXCrqgeDWkAmJzeOKOOzER1ubaRBmN8l9ntllo4X32272
+                    dY+/pDRt/0eMG+iNEXIc8oOcDgz9QosJml/rMBZ45/KKClABGv8P3lD29DNYHcXz
+                    ecRyayHxnyVY4CTfdkFO0Mw0DukEDUfFBiyM8w7PVF4IS/7Qi1yfXBoBBs4FF3sB
+                    12GcF+XFEC0mddQfWpnSKpY5MKD+ydbVLagF6L477maWd82oGanjswIDAQABo1Mw
+                    UTAdBgNVHQ4EFgQUzW+6wzlk3KymUIMKBSHonLIgj4wwHwYDVR0jBBgwFoAUzW+6
+                    wzlk3KymUIMKBSHonLIgj4wwDwYDVR0TAQH/BAUwAwEB/zANBgkqhkiG9w0BAQsF
+                    AAOCAQEAiTMNIIuIzh3SsX3vY5Oj9xTOYt2WUiocr2fSUH/j2M/y/FzNIxWKzAOV
+                    5XfHPh+GPoxNDo2c+QRqjyaE/InbMh26MNPLlnm6FcR2Ybcti2GZfX5QCK4qm0JH
+                    uhwpRhCkZAsFR99kp8LA8cwvX4dbVb1mSxLuKQ0WfDRZX0H1ES9SoP2d0Aa4gSrb
+                    MfDwln/9//snktE43XLCJ7ocYfa33SRkgcLxZNsu87ttTx1q2S3oUBHnQmKQnNKk
+                    6ttUqYr8k6caGIAwUWhoxWimHV6aALowZ3gCjD167wGb5eS9H0DHJJmwmGr5rlea
+                    jn809zQ0DrFbxExqhOvYAL9RtUcIZg==
+                    -----END CERTIFICATE-----
+                </Key>
+      </Keys>
+    </PDOA>
+    <PDOA apUrl="https://trai.gov.in/wani/registry/wani_providers/581e02ca-9def-11e7-abc4-cec278b6b50a/wani_aplist.xml" email="amit.kumar@spectra.co" id="581e02ca-9def-11e7-abc4-cec278b6b50a" name="Citycom Networks Private Limited" phone="+919711880870" rating="" status="ACTIVE">
+      <Keys>
+        <Key exp="20200831">
+                    -----BEGIN CERTIFICATE-----
+                    MIIGWTCCBUGgAwIBAgIQYuFyveSNDOzn5QJxItj5STANBgkqhkiG9w0BAQsFADBC
+                    MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEbMBkGA1UEAxMS
+                    UmFwaWRTU0wgU0hBMjU2IENBMB4XDTE3MDgzMTAwMDAwMFoXDTIwMDgzMDIzNTk1
+                    OVowFzEVMBMGA1UEAwwMKi5zcGVjdHJhLmNvMIIBIjANBgkqhkiG9w0BAQEFAAOC
+                    AQ8AMIIBCgKCAQEAuR/4adUq+w/YuuKqSU1aFZCyOvyLuYJrl6TmanQTY8ZuQVJL
+                    3sPNin+p8A81tUsP8qWNzdwX5CiE/jUQsRwaIGNVHJsR7C7uh05jk9Qk6oJF9OTg
+                    ahmf8YQRMIMDqjZHUME9+4+WUizbviOFLTOXgthRzdhol/pMhIpKfZ8fuwNQoGwC
+                    hB1tiJps6M4Rgko8syg+ViuFqUCH+Jrs/pxRFUHWI0X1DsCt83/g2HInkPJf3NUc
+                    XFdmm4ZwW56gabTw1BFQi7FovljZchns66q+usD5HyBG2TPG9ZaKh6Nw5d1N4bgJ
+                    /CdIUcvUw5gZOHK3B+OrSq9bwnbQiLsQGDfs+QIDAQABo4IDdDCCA3AwIwYDVR0R
+                    BBwwGoIMKi5zcGVjdHJhLmNvggpzcGVjdHJhLmNvMAkGA1UdEwQCMAAwKwYDVR0f
+                    BCQwIjAgoB6gHIYaaHR0cDovL2dwLnN5bWNiLmNvbS9ncC5jcmwwbwYDVR0gBGgw
+                    ZjBkBgZngQwBAgEwWjAqBggrBgEFBQcCARYeaHR0cHM6Ly93d3cucmFwaWRzc2wu
+                    Y29tL2xlZ2FsMCwGCCsGAQUFBwICMCAMHmh0dHBzOi8vd3d3LnJhcGlkc3NsLmNv
+                    bS9sZWdhbDAfBgNVHSMEGDAWgBSXwidQnsLJ7AyIMsh8reKmAU/abzAOBgNVHQ8B
+                    Af8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMFcGCCsGAQUF
+                    BwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL2dwLnN5bWNkLmNvbTAmBggrBgEF
+                    BQcwAoYaaHR0cDovL2dwLnN5bWNiLmNvbS9ncC5jcnQwggH1BgorBgEEAdZ5AgQC
+                    BIIB5QSCAeEB3wB2AN3rHSt6DU+mIIuBrYFocH4ujp0B1VyIjT0RxM227L7MAAAB
+                    Xjda0YEAAAQDAEcwRQIhAIt5wpysUjCv3/ge++QIcHaRMD8Wj81TvAKndaK1K1fB
+                    AiBj8LozujCP5JQ8kQcvlp8BPLdHHD0ETJLWhW6HdACL2QB1AKS5CZC0GFgUh7sT
+                    osxncAo8NZgE+RvfuON3zQ7IDdwQAAABXjda0mMAAAQDAEYwRAIgW2h6sj1kawVn
+                    Q2HHJOWRRTPUfvRoPHHAQVTDLG06zIgCIHv2o8vbXakGUbfAG5X/g1qmMnpILkpB
+                    pUZdWnlfJbCXAHcA7ku9t3XOYLrhQmkfq+GeZqMPfl+wctiDAMR7iXqo/csAAAFe
+                    N1rTeAAABAMASDBGAiEAsZ/NypninuSznON9hb9Lgl2+XEK50A38W+B6HJszeuoC
+                    IQCjaID1wxR1lFQcEK8CssEJiGYKNOpd9MLjaUYx85RS3AB1ALx44d/F9jxoRkkz
+                    TaEPoV8JeWkgCcCBtPP2kX8+2bilAAABXjda0nUAAAQDAEYwRAIgbLlt7WHomyeV
+                    kcY4qeWGgFVgo9OY/zyaeuceQAt1BDkCIBktvAx9rTyrIbznc4WSrbIqMsgSH1ct
+                    grMhUot6lDeGMA0GCSqGSIb3DQEBCwUAA4IBAQAmVWGKfBk+SDBuOmjn8U8zLmoz
+                    vMNoQNqQyK1nDB7GeSILws0gPbDreDHTrOqLImmVlYRIn7kZAADkmXoR+V5GVQ6T
+                    lZf6PGP1Ymg4oe7yL0pTFd3jVlb6DpqSxgRvj2dVqRBb6jc+71lboyZsxe3aAykS
+                    llJeX6FFiqBVpCueLlskKgNo6NaJFkFx4Qv1a45o6Rsb+Fsq1JVhcxMWIjFu6ZVI
+                    cFhbMnnEw4erTUAJwaAgxmSa7ni+QgYGRuAiga/mJKXgtxZYni3zys50goFJ7F9y
+                    X90Spat/0K+L7/GpGVF7aAHMVOHlUEfejyo6tY8MMIbLdfh1uyhXFC2dRZ09
+                    -----END CERTIFICATE-----
+                </Key>
+      </Keys>
+    </PDOA>
+    <PDOA apUrl="https://trai.gov.in/wani/registry/wani_providers/581dfb5e-9def-11e7-abc4-cec278b6b50a/wani_aplist.xml" email="niksingh.wifiadda@gmail.com" id="581dfb5e-9def-11e7-abc4-cec278b6b50a" name="Dexworks Labs Private Limited" phone="+917065545448" rating="" status="ACTIVE">
+      <Keys>
+        <Key exp="20181003">
+                            -----BEGIN CERTIFICATE-----
+                    MIIETzCCAzegAwIBAgIJALnY8FVPLweyMA0GCSqGSIb3DQEBCwUAMIG9MQswCQYD
+                    VQQGEwJJTjEXMBUGA1UECAwOTWFkaHlhIFByYWRlc2gxDzANBgNVBAcMBkJob3Bh
+                    bDEmMCQGA1UECgwdRGV4d29ya3MgTGFicyBQcml2YXRlIExpbWl0ZWQxHzAdBgNV
+                    BAsMFldpZmkgU2VydmljZSBQcm92aWRlcnMxETAPBgNVBAMMCFdpZmlhZGRhMSgw
+                    JgYJKoZIhvcNAQkBFhloYXJpb20ud2lmaWFkZGFAZ21haWwuY29tMB4XDTE3MTAw
+                    MzE3MjMyNloXDTE4MTAwMzE3MjMyNlowgb0xCzAJBgNVBAYTAklOMRcwFQYDVQQI
+                    DA5NYWRoeWEgUHJhZGVzaDEPMA0GA1UEBwwGQmhvcGFsMSYwJAYDVQQKDB1EZXh3
+                    b3JrcyBMYWJzIFByaXZhdGUgTGltaXRlZDEfMB0GA1UECwwWV2lmaSBTZXJ2aWNl
+                    IFByb3ZpZGVyczERMA8GA1UEAwwIV2lmaWFkZGExKDAmBgkqhkiG9w0BCQEWGWhh
+                    cmlvbS53aWZpYWRkYUBnbWFpbC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+                    ggEKAoIBAQDy0hOkIV0pTsoxZT0cuHBk08AEKG+niHyunfS09pX7VofAsmstMGp1
+                    cOW3+uFu3IHNeTZv+/NGTaoEC1urwUxSUHriMLD+NxLpIjrVnEJxiutr5g2gmkvt
+                    IyERPbBiBSx5iu0JDvtKLp2pyUblIP7ycc+Xe6FEx0PHVY7GnxZuLRBnVqXAUmp2
+                    pHQoSHwBrTcHKk+5IvzX863VEs07+wcSpoAvZ5oSIDQusf5LEHc9cznh1PIEQXX+
+                    WEZSS0YNRve9088LvBBNO0edQHjE9YQsWMxvVhrZzOevxo3JihA0NpKQPbuvzqkJ
+                    ZJQizAP57KsR53QOGrSqaAc1SLJ7Yu3BAgMBAAGjUDBOMB0GA1UdDgQWBBTp8rYY
+                    jr542v8RMOpPL9kiJHk13TAfBgNVHSMEGDAWgBTp8rYYjr542v8RMOpPL9kiJHk1
+                    3TAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQAP+s44YNXHoBBVFup1
+                    TBScGcvDWeJxdft7cDu9k8qLs2tTjsDwBtAwFRhww/zkUtUHlDTkWFlZpCTOMPfb
+                    f97Ybl7glv9qW7YkLHVEANIbAw5vdLMrW8MFDS1BRNROhGcD7DRV0Eb95zXpsWbG
+                    uN82CZSuHhFf4SpvWoRKRZUENTeG2NgTXqqoag623SyUimSpKKOOgRr9A5fh6peh
+                    qd/AaZxrfzj25HciQlc9nuDdxjyd6OOToDsIfInJLsI9wNphnM2ElwPDk26xqb2e
+                    iAbjgWnaJUlWiAvO75Q2wFXCbFIkT+csRw24QQj97XMPoE346tvrLvJq6LqVOwDq
+                    ynuG
+                    -----END CERTIFICATE-----
+                </Key>
+      </Keys>
+    </PDOA>
+    <PDOA apUrl="https://trai.gov.in/wani/registry/wani_providers/581e1242-9def-11e7-abc4-cec278b6b50a/wani_aplist.xml" email="karam@wifidabba.com" id="581e1242-9def-11e7-abc4-cec278b6b50a" name="Wifi Dabba" phone="+919986016213" rating="" status="ACTIVE">
+      <Keys>
+        <Key exp="20181115">
+                            -----BEGIN CERTIFICATE-----
+                    MIIDxjCCAq4CCQDlZPAdWt7rVzANBgkqhkiG9w0BAQUFADCBpDELMAkGA1UEBhMC
+SU4xEjAQBgNVBAgTCUthcm5hdGFrYTESMBAGA1UEBxMJQmFuZ2Fsb3JlMRswGQYD
+VQQKExJXaWZpIERhYmJhIFB2dCBMdGQxFDASBgNVBAsTC0VuZ2luZWVyaW5nMRYw
+FAYDVQQDEw13aWZpZGFiYmEuY29tMSIwIAYJKoZIhvcNAQkBFhNrYXJhbUB3aWZp
+ZGFiYmEuY29tMB4XDTE3MTExNTEyMTczOFoXDTE4MTExNTEyMTczOFowgaQxCzAJ
+BgNVBAYTAklOMRIwEAYDVQQIEwlLYXJuYXRha2ExEjAQBgNVBAcTCUJhbmdhbG9y
+ZTEbMBkGA1UEChMSV2lmaSBEYWJiYSBQdnQgTHRkMRQwEgYDVQQLEwtFbmdpbmVl
+cmluZzEWMBQGA1UEAxMNd2lmaWRhYmJhLmNvbTEiMCAGCSqGSIb3DQEJARYTa2Fy
+YW1Ad2lmaWRhYmJhLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AKpnTmWH7vBtMnfsDPI7ugDvgtVgQq/r344nxrPIL1mY7aUi+a67gdbHR/m8Uhu2
+Cp2VUf3ickmdKbNrvYmmNJzMLuER7mSzcyP7w3lNVqvU8NJx9fubAXeAHbZAi5eZ
+6dZ8KDWkvP2lx2W/PvfhCoDR4dJuj/i9MH/xB89MMMvoi6W8wDyjf0pGOsifkKr0
+XO3rfdMEgLbYxc1MN+plbROpjXkyGJ/ERGRcXDTMpqZFIZ440jB9h/v+uxBbAPVe
+BzH646B23va4L0uss6VW1k/MCroPmXDn69JS2vWIdgbG+b+bLJC0CgwH6IfsxrfB
+4SxgFWriGcF6IxF68M+aQIMCAwEAATANBgkqhkiG9w0BAQUFAAOCAQEAJnBRG2tc
+1KfJCZWh2/+YOyQ+BrI5EPpAh4QJCvkiP9vqTF9LGH61LLg2Ogsl0LdRHgvtK4ft
+wD1l2z2gqmQE7aCx6uTiZE2XO1Ks86aWv4A33tLr7GAMG8onIngeqHsQ4Q0qZU0A
+XJfp+eakdih7Swy9AFD6U6mz2qBjgd7R/Macmo0TKslgVVQmrO8xMejMX2S+HN6j
+kFJl1Y9D0e0tpaWERNYV4EDWItiNQByJT/hUIpNWj9F8F+TG50CxSW+GuNSyjimL
+E3c0HHFJbiD/esv3E/gVpBjYMumo6R5fTd63/JTUkYPsTvBcO67lJsN6+/NlxKsR
+M0e9RRFNcQGQWQ==
+                    -----END CERTIFICATE-----
+                </Key>
+      </Keys>
+    </PDOA>
+    <PDOA apUrl="https://trai.gov.in/wani/registry/wani_providers/581df866-9def-11e7-abc4-cec278b6b50a/wani_aplist.xml" email="ac@bluetown.com" id="581df866-9def-11e7-abc4-cec278b6b50a" name="Bluetown" phone="+919212106194" rating="" status="ACTIVE">
+      <Keys>
+        <Key exp="20171127">
+                            -----BEGIN CERTIFICATE-----
+                    MIIFlTCCBH2gAwIBAgIDIUc+MA0GCSqGSIb3DQEBCwUAMIGOMQswCQYDVQQGEwJJ
+TjEqMCgGA1UEChMhZU11ZGhyYSBDb25zdW1lciBTZXJ2aWNlcyBMaW1pdGVkMR0w
+GwYDVQQLExRDZXJ0aWZ5aW5nIEF1dGhvcml0eTE0MDIGA1UEAxMrZS1NdWRocmEg
+U3ViIENBIGZvciBDbGFzcyAyIEluZGl2aWR1YWwgMjAxNDAeFw0xNTExMjcwNTQ1
+MTlaFw0xNzExMjcwNTQ1MTlaMIGpMQswCQYDVQQGEwJJTjERMA8GA1UECgwIUGVy
+c29uYWwxGzAZBgNVBAMMEkdVUFRBIFNBVFlBIE5BUkFJTjFJMEcGA1UEBRNANDFi
+N2FhMWNlMzNjNDZiNDkwOTJmNmMxMzliNWY3NDIxYTc3ZDU4MzA1YWRhOGFkZDk1
+ZDhhNWFmMWQ5NzcxMzEPMA0GA1UEEQwGMTEwMDE2MQ4wDAYDVQQIDAVERUxISTCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKA+rfXBRtjq/dYUIT0qphhv
+XhfWbE2+FDS6SzNHilQbjiZ7q5+6fCz6hv/HvLA18G1qCkM2hmbGT5g4dSJM1NWI
+9dBN7LGAjQrPpVShzOpWw0qOs67HXdSINc4UQ/LWrC0emdJN9UsOHgvXNbdFugjD
+lunKRxaVRgLYKkHUlb0+WEL0iD6Eq6F8VA9SY17OItAmTdKR7wOrP85n6cG/RE33
+RZnlcOP+nE+W3Yexxdu5NEwkjmX/dIkRIMJi7DY7+mdjf+tgHWJpStKRASdNsV2O
+dxhO5WytJNrWnlO8PWt/c/YjrGEAzG73yBIUQJl1TAx40nMzC4RnrrbpX6BOdU0C
+AwEAAaOCAd0wggHZMB0GA1UdJQQWMBQGCCsGAQUFBwMEBggrBgEFBQcDAjATBgNV
+HSMEDDAKgAhOaKZ633FW3DB8BggrBgEFBQcBAQRwMG4wJQYIKwYBBQUHMAGGGWh0
+dHA6Ly9vY3NwLmUtbXVkaHJhLmNvbS8wRQYIKwYBBQUHMAKGOWh0dHA6Ly93d3cu
+ZS1tdWRocmEuY29tL3JlcG9zaXRvcnkvY2FjZXJ0cy9DMklTQ0EyMDE0LmNydDCB
+jAYDVR0gBIGEMIGBMC0GBmCCZGQCAjAjMCEGCCsGAQUFBwICMBUaE0NsYXNzIDIg
+Q2VydGlmaWNhdGUwUAYHYIJkZAEIAjBFMEMGCCsGAQUFBwIBFjdodHRwOi8vd3d3
+LmUtbXVkaHJhLmNvbS9yZXBvc2l0b3J5L2Nwcy9lLU11ZGhyYV9DUFMucGRmMEcG
+A1UdHwRAMD4wPKA6oDiGNmh0dHA6Ly93d3cuZS1tdWRocmEuY29tL3JlcG9zaXRv
+cnkvY3Jscy9DMklTQ0EyMDE0LmNybDAdBgNVHQ4EFgQUmxLQG4+7wUxQTKKdjLdo
+vOyEx34wDgYDVR0PAQH/BAQDAgbAMB4GA1UdEQQXMBWBE1NOR1VQVEE1N0BZQUhP
+Ty5DT00wDQYJKoZIhvcNAQELBQADggEBAGQ6ncKPcEZrr44vpvRg86LJ1RytBq9L
+k3VwjfdB9XJsblJ5FrjS18BIeidiY+HXkBcnmvvaEG2J8bX9H7reQyNGbgEFRbr1
+UJ3CFPsuvu2sewMw1ZB8oOqyfPPh4hXqjfAJAaka2Z4e3dOJ6uIxqopoGlAR7MIw
+erbj+QOF2cooO2UP1xplxgyDk80l9hoZZ5EF7tP02MXnWb9EdoSN29rRiTQ7ylW3
+UxzMuqCvIR7UUSfh8PPA8/k1b1sK0ShThV4UpNwjHU9DlwJSKNC8bFVDMPjw1xW6
+cj6Qhek4VXkZPbE+vdtQR8uU8zb10q3BxAY6x7xDcFGbufTuKfbVjU4=
+                    -----END CERTIFICATE-----
+                </Key>
+      </Keys>
+    </PDOA>
+    <PDOA apUrl="https://trai.gov.in/wani/registry/wani_providers/581deeb6-9def-11e7-abc4-cec278b6b50a/wani_aplist.xml" email="info@xifinetworks.com" id="581deeb6-9def-11e7-abc4-cec278b6b50a" name="XiFi Smart Networks Pvt. Ltd." phone="+919811000010" rating="" status="ACTIVE">
+      <Keys>
+        <Key exp="20221116">
+                            -----BEGIN CERTIFICATE-----
+                    
+MIIEKzCCAxOgAwIBAgIJAIj26u9itHpaMA0GCSqGSIb3DQEBCwUAMIGrMQswCQYD
+VQQGEwJJTjEUMBIGA1UECAwLTWFoYXJhc2h0cmExDzANBgNVBAcMBk11bWJhaTEm
+MCQGA1UECgwdWGlGaSBTbWFydCBOZXR3b3JrcyBQdnQuIEx0ZC4xEzARBgNVBAsM
+ClhpRmkgSW5kaWExEjAQBgNVBAMMCVhpRmkgUERPQTEkMCIGCSqGSIb3DQEJARYV
+aW5mb0B4aWZpbmV0d29ya3MuY29tMB4XDTE3MTExNzEwMjgyNFoXDTIyMTExNjEw
+MjgyNFowgasxCzAJBgNVBAYTAklOMRQwEgYDVQQIDAtNYWhhcmFzaHRyYTEPMA0G
+A1UEBwwGTXVtYmFpMSYwJAYDVQQKDB1YaUZpIFNtYXJ0IE5ldHdvcmtzIFB2dC4g
+THRkLjETMBEGA1UECwwKWGlGaSBJbmRpYTESMBAGA1UEAwwJWGlGaSBQRE9BMSQw
+IgYJKoZIhvcNAQkBFhVpbmZvQHhpZmluZXR3b3Jrcy5jb20wggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQCskFJVIcvvb7uI1SfrfDlLCG+pQVjDd/Nzm3p4
+Pr7EaBHvTjE5MVSpo64Ehl/DYoC+Zmy4k1M37a4hE5fjiW76p4b8YlNT0Q2OwZq2
+amg0Mz2mMvh0LDVJ8PD9YCRCaMkTTjeoMLHCcBDYhXLFkzL8rWSK+jUosqLLvbN3
+3muDRcjXbSJgFkubFrN9T8nBeCbzlrcgQNWTbFaP4tIT+jnC558EG1R7lcAMKfUt
+UkHBwIwPIdcTtZW4Qn7sWmaDdOyY04qnw8g5wwKecvB+aHXaAkNgDZ8/iDsfUAIs
+nIXFjfwvq12TYSenGKm8SJIVaPQ5j8d//W8Jw6mCL37WvPXvAgMBAAGjUDBOMB0G
+A1UdDgQWBBR8ZecLYRgPx+zZALyVSVlE1ArMajAfBgNVHSMEGDAWgBR8ZecLYRgP
+x+zZALyVSVlE1ArMajAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQBx
+Gsk0hqQCiZf0gvDS8y4G4FbRpT60vQiRtzp7J0l3/BmmYeV7H4VTRKgU//8m0ZwC
+W1RF6UXlxLkeS0AXwGKBe4o4uYh5WtIPJW3HxhmugB+qM+NAPQqyOH2mKmGLTq98
+UdOjDN4PYsYlZ8HJzWTVErB/W6Q+GtQUjVjNY9S6D9b2lO2yG40dHP5PLejQivel
+916pndCFhk8RD7xPk5SaCjtc6jh3PNu0zZ0mROg48OJ12XUAr+BHgJETvZ8BOw5C
+OMCbnz3rHnaMEG7mLIxv8aspfJ4hcpjgRIz8FAlv5X4aLtZgHcwYUR4K1U9jsIco
+OnzmUHymwHhzUfMn8NiJ
+                    -----END CERTIFICATE-----
+                </Key>
+      </Keys>
+    </PDOA>
+  </PDOAs>
+  <AppProviders>
+    <AppProvider authUrl="https://api.yspot.in/v1/wani" email="vikram@yspot.in" id="581ea982-9def-11e7-abc4-cec278b6b50a" name="Febler technologies" phone="+919886132601" rating="" status="ACTIVE">
+      <Keys>
+        <Key exp="20180926">
+                    -----BEGIN CERTIFICATE-----
+                    MIIEEzCCAvugAwIBAgIJAO+/3oXDeICtMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD
+                    VQQGEwJJTjESMBAGA1UECAwJa2FybmF0YWthMRIwEAYDVQQHDAliZW5nYWx1cnUx
+                    JDAiBgNVBAoMG0ZlYmxlciB0ZWNobm9sb2dpZXMgcHZ0IGx0ZDEOMAwGA1UECwwF
+                    eXNwb3QxETAPBgNVBAMMCHlzcG90LmluMR8wHQYJKoZIhvcNAQkBFhBjb250YWN0
+                    QHlzcG90LmluMB4XDTE3MDkyNjA5MDMwOFoXDTE4MDkyNjA5MDMwOFowgZ8xCzAJ
+                    BgNVBAYTAklOMRIwEAYDVQQIDAlrYXJuYXRha2ExEjAQBgNVBAcMCWJlbmdhbHVy
+                    dTEkMCIGA1UECgwbRmVibGVyIHRlY2hub2xvZ2llcyBwdnQgbHRkMQ4wDAYDVQQL
+                    DAV5c3BvdDERMA8GA1UEAwwIeXNwb3QuaW4xHzAdBgkqhkiG9w0BCQEWEGNvbnRh
+                    Y3RAeXNwb3QuaW4wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDRFPwJ
+                    6pzJM8xquz5sUjCzgZ03Df3lMhJYaXl52Ohy517FITcMSHWnHh2kAaxMsAQnk/nO
+                    aDbDXtK5h+/9TLWwpfpz0t2vR7Ccv2g+YdI7sfeovPti5TyhJ9Ajmihtm6ICDFDj
+                    EloiAgJfGRs7qbLPSLtoaNw+y4aE39rxFS2Pn+TbVFx1aHZtKjNzNHO4DmJBJxEO
+                    JVgp4NG72ghY6EVybeJP9HE5o23XqgiVJPYBX9sjUxBtQ9VQB023wiq+OL/lKXM3
+                    T7SUnXTKcP61x48lGeGezMwwrP/+PQL+Bk+3fPx69aKRTW7CzUvkYdQ23V5BNuoi
+                    fC8ldqWhMF1xxYG1AgMBAAGjUDBOMB0GA1UdDgQWBBTm9slP03eFEUbWgGrBaJFl
+                    4dFMTDAfBgNVHSMEGDAWgBTm9slP03eFEUbWgGrBaJFl4dFMTDAMBgNVHRMEBTAD
+                    AQH/MA0GCSqGSIb3DQEBCwUAA4IBAQAyxP2ko+vUvn4fbGnYQ0EMpGvc03Cwl4DY
+                    4nE8uiKwlic1FRqdyBlkxdTxmF1QDhvbmxeDU7gI2bKllkRa4k8oYOpnf/99t1n0
+                    BwJB11Sp4x9aLMuTdiUPQAV09sYrzlwxAFFBVzcNcDAcK8WPRh10434UBg+y4pCI
+                    /m73JgIqz7hKL8W3Bj0HqIcthFeP31qQbkjcScbRrrQqklHvVZ+nQXmwkfJibXn9
+                    mOKFavwz2BYIOFw00bZdatOKWuGgCGqmCUM6emMuXkeKoldmwR5YyTH9Yv+iZFIH
+                    Mi6dxQoAfWFx7KbmCuRQ1B5JcA4/I9qiIpJQ6lNOEVMQIWVCU7gG
+                    -----END CERTIFICATE-----
+                </Key>
+      </Keys>
+    </AppProvider>
+    <AppProvider authUrl="https://www.i2e1.in/TRAI/submitAuthToken" email="gb@i2e1.com" id="581e8f06-9def-11e7-abc4-cec278b6b50a" name="Omnia Information Pvt Ltd" phone="+919818482844" rating="" status="ACTIVE">
+      <Keys>
+        <Key exp="20180731">
+                    -----BEGIN CERTIFICATE-----
+                    MIIFIDCCBAigAwIBAgIIE+yCXGfGPr0wDQYJKoZIhvcNAQELBQAwgbQxCzAJBgNV
+                    BAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQHEwpTY290dHNkYWxlMRow
+                    GAYDVQQKExFHb0RhZGR5LmNvbSwgSW5jLjEtMCsGA1UECxMkaHR0cDovL2NlcnRz
+                    LmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMTMwMQYDVQQDEypHbyBEYWRkeSBTZWN1
+                    cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwHhcNMTcwNzI4MDgzMTAwWhcN
+                    MTgwNzI4MDgzMTAwWjA1MSEwHwYDVQQLExhEb21haW4gQ29udHJvbCBWYWxpZGF0
+                    ZWQxEDAOBgNVBAMTB2kyZTEuaW4wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+                    AoIBAQDJUnypLyraXsAtf+mkP1ijEXCwFrpZzfMr2W1vmAi++1n0X/9Kcp2RYcGv
+                    txgGtP0Mmdlv2kcdydGaJSrIyBO3xHbZe2bBah6kex8s6QdYBCBn0v9CMaEXf3mj
+                    Z7m1ic7JSbqtD5G2WpVnH+7Wta1P86qEWTi03wZ55vHhROpXvsgY4Pv3bv9OXZqe
+                    aF11pg93cWyanmOmslRiHc79K23yGwATdM9D8+ChURCyqbtfRNR+MM1aE/abHjQZ
+                    MDhXn6Zc+HgCD7QXqoNFRjfgSnjfCPA66ENvIEDMFQgUv/QVDpt5FhwowMQuOSrU
+                    csgzsrg1pagVl9Is/3HUslc9hGylAgMBAAGjggGyMIIBrjAMBgNVHRMBAf8EAjAA
+                    MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAOBgNVHQ8BAf8EBAMCBaAw
+                    NwYDVR0fBDAwLjAsoCqgKIYmaHR0cDovL2NybC5nb2RhZGR5LmNvbS9nZGlnMnMx
+                    LTYyMi5jcmwwXQYDVR0gBFYwVDBIBgtghkgBhv1tAQcXATA5MDcGCCsGAQUFBwIB
+                    FitodHRwOi8vY2VydGlmaWNhdGVzLmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMAgG
+                    BmeBDAECATB2BggrBgEFBQcBAQRqMGgwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3Nw
+                    LmdvZGFkZHkuY29tLzBABggrBgEFBQcwAoY0aHR0cDovL2NlcnRpZmljYXRlcy5n
+                    b2RhZGR5LmNvbS9yZXBvc2l0b3J5L2dkaWcyLmNydDAfBgNVHSMEGDAWgBRAwr0n
+                    jsw0gzCiM9f7bLPwtCyAzjAfBgNVHREEGDAWggdpMmUxLmluggt3d3cuaTJlMS5p
+                    bjAdBgNVHQ4EFgQUNOveJLIkpYA7JOoGpcT997kHRbowDQYJKoZIhvcNAQELBQAD
+                    ggEBAK34AI2vPcHXTd2bmH8E6gP5jr7Tzdsgrhlq9AgZNVu0ImuEpTyaKkbYHiZx
+                    VoIb50+DlzxarrpVXofBg1YKBF1Bwyv1q3EjhYXT6sZCL5p7jifO7X1kEujAp8rf
+                    XMXr9UXRjs1B0mOiW6nLyGPY4XITyoALk1LupZo3Yd3hUIuJPaO8zumJicl2GTi1
+                    EPu3+NJ6s5xatHuSM64b0+QxA/RTxGlBOmrfYsc5+wk242lLRl+SgOEctz76LWxi
+                    wCW8sAP8ibxomNdtcDHI6RA4j7uqc4TaUa8r96BauFBP4+PdHU5eDQzOvNHBedf1
+                    xccKOibtSm4QAMepd+PjQ9iRK24=
+                    -----END CERTIFICATE-----
+                </Key>
+      </Keys>
+    </AppProvider>
+    <AppProvider authUrl="https://wifireauth.mobstac.com/wani/v1/login" email="sharat@mobstac.com" id="581eaafe-9def-11e7-abc4-cec278b6b50k" name="WiFire" phone="+9845655692" rating="" status="ACTIVE">
+      <Keys>
+        <Key exp="20180731">
+                    -----BEGIN CERTIFICATE-----                    
+                    MIID3zCCAsegAwIBAgIJAOP1siRXx52gMA0GCSqGSIb3DQEBCwUAMIGFMQswCQYD
+                    VQQGEwJJTjESMBAGA1UECAwJS2FybmF0YWthMRIwEAYDVQQHDAlCYW5nYWxvcmUx
+                    EDAOBgNVBAoMB01vYlN0YWMxGTAXBgNVBAMMEGdldHdpZmlyZWFwcC5jb20xITAf
+                    BgkqhkiG9w0BCQEWEndpZmlyZUBtb2JzdGFjLmNvbTAeFw0xNzEwMTYwNDU0Mjla
+                    Fw0xODEwMTYwNDU0MjlaMIGFMQswCQYDVQQGEwJJTjESMBAGA1UECAwJS2FybmF0
+                    YWthMRIwEAYDVQQHDAlCYW5nYWxvcmUxEDAOBgNVBAoMB01vYlN0YWMxGTAXBgNV
+                    BAMMEGdldHdpZmlyZWFwcC5jb20xITAfBgkqhkiG9w0BCQEWEndpZmlyZUBtb2Jz
+                    dGFjLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJXsnHL9hxzY
+                    kJwNdxs3hYXOr2NzVh5deYa5X5ZBsr9FBTUQLfPRu2FriWgIAu3aFzizUKOW5LcL
+                    I2p8yxIX61Jp1zeFi01VaWuYkXFljW7xhKIBn7QhIJHsTwQcNHF+i5ivxytf0cpW
+                    f2Tvh9nhtLNRZesLRiQ45Bjwt1seWuWMAP01e2mD895KXfvwxhVwYHjpKJtX3yYm
+                    /kcCz8tyTX4M0NaPNTJIhzZh10Bfywm4QWcx4zu1cot25xwtbNOF1fOvMKCV6q8n
+                    f7Z5kM4tWHwlo6cxs8RzT/srML+E+5MQFYfgwGRei6mh9Fqe5ZFMGqwScOR+ivNj
+                    RLjeWoOOG5ECAwEAAaNQME4wHQYDVR0OBBYEFMJbfwdK71AE/d0D/STKAbZ5Q+Pw
+                    MB8GA1UdIwQYMBaAFMJbfwdK71AE/d0D/STKAbZ5Q+PwMAwGA1UdEwQFMAMBAf8w
+                    DQYJKoZIhvcNAQELBQADggEBAGuuEM0yFPb/QqL+FSQxvcOlllCCsfFVRKChwPp+
+                    M6HTWseFUuAlwooK+5+L449zHxCvlIsLq+abBB3Fqnpwaj5vO1TSzhmyWerGt/g+
+                    YnSPV95benDuEnz/oAKsCI3+T93RraaRgOsbzt4chJSv95pExPOKKF2jXqVL62KL
+                    kQs3iKSAwjuG7ih19g0zFlM/vxthG8X7kj2Hno1WWsOcEvjZ0MLkavD98A9RkLz+
+                    VO4+b/xeJJSgfJ2KGdVjfN0tW/KsWxDAdOlzEWF3UMBanDjIMWUmVSNjTbguvucK
+                    OnTUj+JfT5XPH6t9N7G3h+NYfBNVbcBkb3iZGb+lSQlOTIs=                    
+                    -----END CERTIFICATE-----
+                </Key>
+      </Keys>
+    </AppProvider>
+  </AppProviders>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><DigestValue>+1cBpog0TwZ0cttRkZEKc+zrJemRhHypU7IAI5uW/5I=</DigestValue></Reference></SignedInfo><SignatureValue>Ld837KIMH+fUgE94ntruxrmY8C9kyOYngS4M1VZhd2xVEwMKrFSe4ypiWiO5nwYMnrJwKNQGJCPM
+aH3o9pZTW+yF5c9krRqeeed1v6drLDmOnuarCRqogv4AH9MrDZC/f51uxKCgJP1ITkD6YCyyAG6n
+NnFLEPnvT5/c4UviZXFgSCJzvMHW5/lpcDH/HUyntWmBjamNTCjgwNFg7mNIV/56pJ+r7Q4P0lga
+V08RelHb3km49Hxt5Y7NrT1mw8eN62xHD/Ud7Bjm1SF0gqg49zrpS/2R/n6MUOmfx5jCTWyxDLRO
+lQXx4IEbckPsPh99xdaC0lOrG31aykZ1ecl4hg==</SignatureValue><KeyInfo><X509Data><X509SubjectName>CN=Kapil Handa,OU=Unknown,O=TRAI,L=New Delhi,ST=New Delhi,C=IN</X509SubjectName><X509Certificate>MIIDdzCCAl+gAwIBAgIEU/DQmjANBgkqhkiG9w0BAQsFADBsMQswCQYDVQQGEwJJTjESMBAGA1UE
+CBMJTmV3IERlbGhpMRIwEAYDVQQHEwlOZXcgRGVsaGkxDTALBgNVBAoTBFRSQUkxEDAOBgNVBAsT
+B1Vua25vd24xFDASBgNVBAMTC0thcGlsIEhhbmRhMB4XDTE3MTAwNzEwMTExN1oXDTE4MDEwNTEw
+MTExN1owbDELMAkGA1UEBhMCSU4xEjAQBgNVBAgTCU5ldyBEZWxoaTESMBAGA1UEBxMJTmV3IERl
+bGhpMQ0wCwYDVQQKEwRUUkFJMRAwDgYDVQQLEwdVbmtub3duMRQwEgYDVQQDEwtLYXBpbCBIYW5k
+YTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJWgGPg+2gVUccnwbD8jY8UorjjR61U6
+qveJzJphwupzJcR9nXvVM+BjXjx7p2m1Uq46GwQpyJrHVK/r1dMjT8/bmFEBzhnoXvhxfJlVuCl6
+1x2capMwuxjPkI8ck6mnGCHGBdw0O2CIDTSaYnHa+t9vIicUVqcdwbTN7Z4Bn1B2+Vfiz2kTuLs0
+tnqm7CtQRHLh3z31FLOsfL9Of6S7bWimqJXHCK6G4bxM1VNNTpc212/2I4Qi/DscS7PBJumKsULe
+XmuCe24cOY9/30i4+XvDpCS/CsbScnDywDXyx74fzw8OPZ3JDFdi5eVQ3SGuu8HADBYetJynBjiQ
+XhshzS0CAwEAAaMhMB8wHQYDVR0OBBYEFA2zZZ/S3evmc3fIs4Xhp1YvhofOMA0GCSqGSIb3DQEB
+CwUAA4IBAQBzn5t4jMrsUpBvpqsyBhVp3N7FoGvKqas8dkn04Eqz06Rmrd95N8b8Xs+tpEIh+1Om
+qrsa95a05FwYAQESbsefleq9GVF4Pw6NopDJp539z+BCeFLoJNLCWNPvmN6kAPeXiTHesryeU4mG
+eyK49yhGZPpvaQgarwzHLKtjBp3TBJw0QvUx54C6sopJq7RM2bYeSFzUIo3sSNSbaq7vcQ8mzJZj
+CC3Tp7Y1bTOibdhwvl4+lu+eL63GPcJUv3eVe13bw4fMO5D/CSRDg62NkoXUsa8BxL+J5XoHJ0M6
+KJlrHdNIKl8T1d076GhIrQR0yQz0NcZFwsuTPc6VplnBM3OR</X509Certificate></X509Data></KeyInfo></Signature></WaniRegistry>
