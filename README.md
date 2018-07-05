@@ -44,7 +44,17 @@ https://wifireauth.mobstac.com/wani/v1/login?wanipdoatoken=your-provider-id|your
 **wanipdoatoken**: This token should be constructed by joining the three parts below with a pipe (|):
 - Your provider ID.
 - The expiry of your latest key pair. This should match with the expiry of one of your keys declared in the WANI registry.
-- Base64 encoding of the entire **waniapptoken** that you received above. **UPDATE: RSA Encryption is being added by 10 July 2018**
+- Base64 encoding of the entire **waniapptoken** that you received above. 
+- **UPDATE: RSA Encryption of the entire base64 encoded string above will be required starting 10 July 2018** 
+
+You will need to use RSA/ECB/PKCS1, i.e. RSA encryption using PKCS1 padding. In Node.JS, for e.g., you can use the crypto.publicEncrypt function passing in 256 bytes at a time. This is how we decrypt it:
+
+```
+    var decrypted = '';
+    for (var i = 0; i < buf.length; i += 256) {
+        decrypted += crypto.publicDecrypt({key: key, padding: constants.RSA_PKCS1_PADDING}, buf.slice(i, i + 256));
+    }
+```
 
 You will then receive a response from our auth URL with status 200 and JSON in the below format:
 
