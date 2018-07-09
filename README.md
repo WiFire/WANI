@@ -47,13 +47,13 @@ https://wifireauth.mobstac.com/wani/v1/login?wanipdoatoken=your-provider-id|your
 - **UPDATE: RSA Encryption of waniapptoken before base64 encoding it will be required starting 10 July 2018** 
 - Base64 encoding of the entire RSA encrypted string obtained from the previous step
 
-You will need to use RSA encryption using RSA_PKCS1_OAEP_PADDING. In Node.JS, for e.g., you can use the crypto.publicEncrypt function passing in 256 bytes at a time. This is how we decrypt it:
+You will need to use RSA encryption using RSA_PKCS1_PADDING. In Node.JS, for e.g., you can use the crypto.privateEncrypt function passing in 256 bytes at a time. This is how we decrypt it:
 
 ```
     // buf is the base64 decoded string
     var decrypted = '';
     for (var i = 0; i < buf.length; i += 256) {
-        decrypted += crypto.publicDecrypt({key: key, padding: constants.RSA_PKCS1_OAEP_PADDING}, buf.slice(i, i + 256));
+        decrypted += crypto.publicDecrypt({key: key, padding: constants.RSA_PKCS1_PADDING}, buf.slice(i, i + 256));
     }
 ```
 
